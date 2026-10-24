@@ -1,0 +1,9 @@
+build/
+build-asan/
+build-tsan/
+gantt.png
+results.csv
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
